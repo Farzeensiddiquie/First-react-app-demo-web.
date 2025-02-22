@@ -27,7 +27,7 @@ function Footer(){
         
     </div>
     <div className="forth">
-        <h4 class="h9">Our Services</h4>
+        <h4 className="h9">Our Services</h4>
         <a className="a2" href="#our-services">App Development</a><br/>
         <a className="a2" href="#our-services">Web Development</a><br/>
         <a className="a2" href="#our-services">Graphic Design</a><br/>
@@ -35,8 +35,8 @@ function Footer(){
         <a className="a2" href="#our-services">App Design</a>
     </div>
 </div>
-<div class="footer2">
-    <p class="p8">@ Copyright 2020 </p><p class="p9">Brandoxide.</p> <p class="p10">All rights reserved.</p>
+<div className="footer2">
+    <p className="p8">@ Copyright 2020 </p><p className="p9">Brandoxide.</p> <p className="p10">All rights reserved.</p>
 </div>
 </>
     );

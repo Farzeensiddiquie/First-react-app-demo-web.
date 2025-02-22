@@ -10,9 +10,9 @@ function Section8(){
     <div className="search2">
         <form  className="form">
     <input type="email" name="Email" id="Email" placeholder="Enter your Email"/>
-    <button type="submit"><img src="assets/Arrow 2.png" alt=""/></button></form>
+    <button type="button"><img className="arrow-img" src={require('./assets/Arrow2.png')} alt="img"/></button></form>
     </div>
-    
+
             </div>
          
         
